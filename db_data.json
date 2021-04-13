@@ -1,0 +1,6 @@
+{
+    "host": "insert_ip_db",
+    "database": "insert_database",
+    "username": "insert_user",
+    "password": "insert_password"
+}
